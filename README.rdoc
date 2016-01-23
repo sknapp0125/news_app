@@ -2,7 +2,3 @@
 
 A link aggregator site built with Ruby on Rails.
 
-Based on the tutorial by Mackenzie Child
-https://mackenziechild.me/12-in-12/1/
-
-
